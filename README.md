@@ -1,8 +1,7 @@
-## NODE JS agora podendo conectar com banco de dados SQLite 
+## NODE JS can now connect to SQLite databases
+New in the latest update of NodeJS v22.11
 
-Novidade da ultima atuaização do NodeJS v22.11
-
-### Ferramentas utilizadas
-- API Utilizando módulos nativos do NodeJS
-- Biblioteca SQL Bricks.js (para escrever query complexas de SQL, que previnem ataques de segurança)
-- Entenxão do vscode *SqLite Viewer* para visualizar as tabelas do banco de dados 
+### Tools used
+- API Using native NodeJS modules
+- SQL Bricks.js library (to write complex SQL queries, which prevent security attacks)
+- Understanding of vscode *SqLite Viewer* to view database tables
